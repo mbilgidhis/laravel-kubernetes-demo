@@ -102,11 +102,6 @@
     @endif
 
     <div class="content">
-        <img src="/img/k8s-logo-horizontal_color.png" alt="Learn K8s Logo">
-        <div class="title m-b-md">
-            Demo PHP Application
-        </div>
-
         <div class="links">
             <a target="_blank" href="https://github.com/learnk8s/laravel-kubernetes-demo/blob/master/README.md"
                title="Documentation">Documentation</a>
